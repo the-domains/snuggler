@@ -1,0 +1,14 @@
+layout_spectrum: 0.49828785890713334
+typography_spectrum: 0.16136761847883463
+color:
+  brandStrength: 0.48844090406782925
+  lightness: 0.5064873634837568
+  saturation: 0.05865479772910476
+  rhythmicContrast: 0.6851280126720667
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: SNUGGLER
