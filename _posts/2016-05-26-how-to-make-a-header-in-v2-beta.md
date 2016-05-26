@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-05-26T15:41:42.312Z'
-datePublished: '2016-05-26T15:41:42.369Z'
+dateModified: '2016-05-26T15:44:15.547Z'
+datePublished: '2016-05-26T15:44:15.597Z'
 title: "How to Make a 'Header' in V2 Beta"
 author: []
 starred: true
@@ -12,4 +12,4 @@ inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/871b92d9-c002-4583-bde3-c9e734c9dde3.jpg" /><h1>How to Make a 'Header' in V2 Beta</h1></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91a6f2af-fb79-4969-9a9b-3e21af2be873.jpg" /><h1>How to Make a 'Header' in V2 Beta</h1></article>
