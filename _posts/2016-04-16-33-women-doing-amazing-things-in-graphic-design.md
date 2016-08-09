@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T16:51:03.359Z'
+datePublished: '2016-08-09T16:53:22.165Z'
 sourcePath: _posts/2016-04-16-33-women-doing-amazing-things-in-graphic-design.md
 inFeed: true
 hasPage: true
@@ -19,7 +19,7 @@ author:
   - name: Rebecca Gross
     url: 'https://designschool.canva.com/blog/author/rebecca/'
     avatar: {}
-dateModified: '2016-08-09T16:51:02.476Z'
+dateModified: '2016-08-09T16:53:21.390Z'
 title: 33 Women Doing Amazing Things in Graphic Design
 app_links: []
 publisher:
