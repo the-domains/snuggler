@@ -1,5 +1,4 @@
 typography_spectrum: 0.16136761847883463
-style: the-composer
 color:
   brandStrength: 0.48844090406782925
   lightness: 0.5064873634837568
@@ -13,5 +12,11 @@ color:
     - '#004E98'
 layout_spectrum: 0.49828785890713334
 name: SNUGGLER
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/be44cf55-ed41-4ffd-824c-bd40e69f0371.jpg'
+style: the-composer
+navigation:
+  - name: This is the most amazing drone we've seen yet
+    id: d3e4dba3-17a8-4786-8aee-e17b3efbcc4c
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/be44cf55-ed41-4ffd-824c-bd40e69f0371.jpg
 title: SNUGGLE YOU BACK TO HEALTH
