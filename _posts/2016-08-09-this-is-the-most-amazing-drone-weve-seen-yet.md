@@ -65,16 +65,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=XdlmoLAbbiQ'
 title: This is the most amazing drone we've seen yet
-datePublished: '2016-08-09T13:54:50.147Z'
-dateModified: '2016-08-09T13:54:46.549Z'
+datePublished: '2016-08-09T16:50:42.661Z'
+dateModified: '2016-08-09T16:50:42.061Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-09-this-is-the-most-amazing-drone-weve-seen-yet.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: this-is-the-most-amazing-drone-weve-seen-yet/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
