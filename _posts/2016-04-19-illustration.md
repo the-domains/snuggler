@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-04-23T00:00:29.528Z'
+datePublished: '2016-08-09T16:50:52.840Z'
 sourcePath: _posts/2016-04-19-illustration.md
 inFeed: true
-isBasedOnUrl: 'http://www.thisiscolossal.com/category/illustration/'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - brodeur
   - lamadieu
@@ -24,8 +23,7 @@ author:
   - name: Kate Sierzputowski
     url: 'http://katesierzputowski.com/'
     avatar: {}
-published: true
-dateModified: '2016-04-23T00:00:29.183Z'
+dateModified: '2016-08-09T16:50:52.127Z'
 title: Illustration
 app_links: []
 publisher:
@@ -33,10 +31,18 @@ publisher:
   domain: www.thisiscolossal.com
   url: 'http://www.thisiscolossal.com'
   favicon: 'http://www.thisiscolossal.com/favicon.ico?v=6'
-description: "As part of his Celestial Series, Chicago-based digital artist David Brodeur rendered an alien world filled with berry-like plants, glowing crystals, and candy shaped orbs that sprout from the ground. Despite their exotic designs, Brodeur relies on common colors of familiar fruits to create this Willy Wonka-esque habitat where you can't help but want to reach out and gobble everything up."
+description: >-
+  As part of his Celestial Series, Chicago-based digital artist David Brodeur
+  rendered an alien world filled with berry-like plants, glowing crystals, and
+  candy shaped orbs that sprout from the ground. Despite their exotic designs,
+  Brodeur relies on common colors of familiar fruits to create this Willy
+  Wonka-esque habitat where you can't help but want to reach out and gobble
+  everything up.
 inLanguage: en
 inNav: false
+via: {}
 starred: false
+url: illustration/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
