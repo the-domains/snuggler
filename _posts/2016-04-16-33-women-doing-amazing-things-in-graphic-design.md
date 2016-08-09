@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-04-23T00:00:29.640Z'
+datePublished: '2016-08-09T16:51:03.359Z'
 sourcePath: _posts/2016-04-16-33-women-doing-amazing-things-in-graphic-design.md
 inFeed: true
-isBasedOnUrl: 'https://designschool.canva.com/blog/women-graphic-designers/'
-hasPage: false
+hasPage: true
 keywords:
   - design
   - marta
@@ -20,8 +19,7 @@ author:
   - name: Rebecca Gross
     url: 'https://designschool.canva.com/blog/author/rebecca/'
     avatar: {}
-published: true
-dateModified: '2016-04-23T00:00:28.858Z'
+dateModified: '2016-08-09T16:51:02.476Z'
 title: 33 Women Doing Amazing Things in Graphic Design
 app_links: []
 publisher:
@@ -29,10 +27,18 @@ publisher:
   name: Design School
   favicon: 'https://designschool.canva.com/wp-content/themes/canva/img/icons/favicon.ico'
   domain: designschool.canva.com
-description: 'These talented women have unleashed their creativity and skills on the world of graphic design. Paula Scher is an American graphic designer, illustrator, and educator, and the first female Principal at . She started experimenting with typography in the early 1980s and looked to historic design sources such as Russian Constructivism, obscure and little-used typefaces, and her seemingly unlimited imagination.'
+description: >-
+  These talented women have unleashed their creativity and skills on the world
+  of graphic design. Paula Scher is an American graphic designer, illustrator,
+  and educator, and the first female Principal at . She started experimenting
+  with typography in the early 1980s and looked to historic design sources such
+  as Russian Constructivism, obscure and little-used typefaces, and her
+  seemingly unlimited imagination.
 inLanguage: en
 inNav: false
+via: {}
 starred: false
+url: 33-women-doing-amazing-things-in-graphic-design/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
