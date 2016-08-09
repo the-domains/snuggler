@@ -17,6 +17,9 @@ navigation:
   - name: This is the most amazing drone we've seen yet
     id: d3e4dba3-17a8-4786-8aee-e17b3efbcc4c
     type: content
+  - name: Illustration
+    id: cbf7ecde-94fe-4c29-8f9e-9fa076d5a4e9
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/be44cf55-ed41-4ffd-824c-bd40e69f0371.jpg
 title: SNUGGLE YOU BACK TO HEALTH
