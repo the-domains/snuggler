@@ -13,6 +13,10 @@ color:
 layout_spectrum: 0.33113516168668866
 name: SNUGGLER
 style: the-composer
+navigation:
+  - name: shop
+    url: amazon.com
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/be44cf55-ed41-4ffd-824c-bd40e69f0371.jpg
 title: SNUGGLE YOU BACK TO HEALTH
