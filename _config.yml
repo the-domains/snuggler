@@ -14,9 +14,6 @@ layout_spectrum: 0.33113516168668866
 name: SNUGGLER
 style: the-composer
 navigation:
-  - name: test
-    id: 4d639d39-eee0-4948-8f5c-ac34f69af091
-    type: content
   - name: This is the most amazing drone we've seen yet
     id: d3e4dba3-17a8-4786-8aee-e17b3efbcc4c
     type: content
