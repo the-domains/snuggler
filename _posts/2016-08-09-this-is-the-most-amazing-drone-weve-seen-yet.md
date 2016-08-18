@@ -66,8 +66,8 @@ app_links:
     namespace: google
     type: ios
 title: This is the most amazing drone we've seen yet
-datePublished: '2016-08-09T16:50:42.661Z'
-dateModified: '2016-08-09T16:50:42.061Z'
+datePublished: '2016-08-18T17:45:24.693Z'
+dateModified: '2016-08-18T17:45:23.960Z'
 via: {}
 sourcePath: _posts/2016-08-09-this-is-the-most-amazing-drone-weve-seen-yet.md
 hasPage: true
