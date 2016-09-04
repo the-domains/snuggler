@@ -1,4 +1,5 @@
-typography_spectrum: 0.3640747421886772
+layout_spectrum: 0.33113516168668866
+typography_spectrum: 0.7478168040979654
 color:
   brandStrength: 0.48844090406782925
   lightness: 0.5064873634837568
@@ -10,9 +11,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.33113516168668866
 name: SNUGGLER
-style: the-composer
 navigation:
   - name: shop
     url: amazon.com
