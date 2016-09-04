@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-09-01T17:42:05.083Z'
-datePublished: '2016-09-01T17:42:05.590Z'
+dateModified: '2016-09-01T17:49:21.015Z'
+datePublished: '2016-09-01T17:49:21.582Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-26-how-to-make-a-header-in-v2-beta.md
