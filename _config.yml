@@ -1,4 +1,3 @@
-layout_spectrum: 0.33113516168668866
 typography_spectrum: 0.7478168040979654
 color:
   brandStrength: 0.48844090406782925
@@ -11,11 +10,9 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.33113516168668866
 name: SNUGGLER
 navigation:
-  - name: shop
-    url: amazon.com
-    type: external
   - name: blog
     id: 4d639d39-eee0-4948-8f5c-ac34f69af091
     type: content
