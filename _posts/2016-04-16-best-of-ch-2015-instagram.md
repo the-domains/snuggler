@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-23T00:00:29.730Z'
+datePublished: '2016-09-01T17:37:42.588Z'
 sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/culture/best-of-ch-2015-instagram'
@@ -17,8 +17,7 @@ keywords:
   - biennale
 related: []
 author: []
-published: true
-dateModified: '2016-04-23T00:00:29.142Z'
+dateModified: '2016-09-01T17:37:42.130Z'
 title: 'Best of CH 2015: Instagram'
 app_links: []
 publisher:
@@ -26,7 +25,10 @@ publisher:
   name: Cool Hunting
   favicon: 'http://assets.coolhunting.com/favicon.ico'
   domain: www.coolhunting.com
-description: "Four and a half years ago we joined Instagram and have posted over 2,500 images since. More than 99% of the photographs we share, we ourselves have taken, and that's something we're quite proud of."
+description: >-
+  Four and a half years ago we joined Instagram and have posted over 2,500
+  images since. More than 99% of the photographs we share, we ourselves have
+  taken, and that's something we're quite proud of.
 inLanguage: en
 inNav: false
 starred: false
